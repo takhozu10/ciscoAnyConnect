@@ -18,3 +18,7 @@ sed -i '.bak' "s/userInfo/$curUser/g" "$curUserDir";
 #Remove Backup file
 backupFile=`echo /Users/$curUser/.anyconnect.bak`;
 rm "$backupFile";
+
+#Remove installer files
+rm -rf /tmp/AnyConnect.pkg;
+rm -rf /tmp/CiscoChoices.xml;
