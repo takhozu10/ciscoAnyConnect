@@ -5,7 +5,7 @@
 <ClientCertificateThumbprint></ClientCertificateThumbprint>
 <MultipleClientCertificateThumbprints></MultipleClientCertificateThumbprints>
 <ServerCertificateThumbprint></ServerCertificateThumbprint>
-<DefaultHostName>vpn.biglots.com</DefaultHostName>
+<DefaultHostName></DefaultHostName>
 <DefaultHostAddress></DefaultHostAddress>
 <DefaultGroup>BigLotsAnyConnect</DefaultGroup>
 <ProxyHost></ProxyHost>
