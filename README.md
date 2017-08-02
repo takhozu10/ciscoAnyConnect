@@ -11,7 +11,7 @@ __anyconnect__ file is a configuration file pre-configure to organization specif
 2. Copy anyconnect file to /Users/<username>/.
 3. Run anyConnectConfig.sh script to customize using user specific configuration.
 
-##Install using JAMF Pro
+## Install using JAMF Pro
 1. Create DMG file that contains anyConnect.pkg, CiscoChoices.xml, and anyconnect file. 
     a. Place both anyConnect.pkg and CiscoChoices.xml in /tmp/ directory.
     b. Place anyconnect /Users/admin/ directory for now. We will use FEU (Fill existing user home direcotries) feature in JSS to place the .anyconnect file to existing user's directory.
