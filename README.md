@@ -6,8 +6,8 @@ __anyConnectConfig.sh__ will install and customize the login by retrieving and r
 __anyconnect__ file is a configuration file pre-configure to organization specific information.  
 
 ## Edit anyconnect file
-Enter the vpn server name here
-"<DefaultHostName>vpn.company.com</DefaultHostName>"
+Enter the vpn server name here  
+```<DefaultHostName>vpn.company.com</DefaultHostName>```
 
 ## Install Instructions  
 1. Copy vendor provided AnyConnect.pkg file and CiscoChoices.xml file to the computer, in the /tmp directory.
