@@ -7,7 +7,7 @@ __anyconnect__ file is a configuration file pre-configure to organization specif
 
 ## CiscoChoices.xml file
 This file allows custom installation method to be applied to the package.  
-Currently, the this file only have VPN enabled. In order to enable the other module during the installation, change the integer tag to the following  
+Currently, this file only enables VPN module during the installation. In order to enable the other modules during the installation, change the integer tag to the following  
 ```<integer>1</integer>```
 
 ## Edit anyconnect file
