@@ -7,7 +7,7 @@ __anyconnect__ file is a configuration file pre-configure to organization specif
 
 ## Edit anyconnect file
 Enter the vpn server name here
-<DefaultHostName>vpn.company.com</DefaultHostName>
+"<DefaultHostName>vpn.company.com</DefaultHostName>"
 
 ## Install Instructions  
 1. Copy vendor provided AnyConnect.pkg file and CiscoChoices.xml file to the computer, in the /tmp directory.
