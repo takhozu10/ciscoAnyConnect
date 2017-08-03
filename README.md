@@ -1,8 +1,8 @@
 # Cisco AnyConnect for Mac 4.4  
 Customize installation for enterpriase organization.  
 
-__CiscoChoices.XML__ allows Cisco AnyConnect 4.4 package to be installed using the vendor provide pacakge but customize which modules to install.  
-__anyConnectConfig.sh__ will install and customize the login by retrieving and replacing logged in use's username and vpn domain name to organziation specific.  
+__CiscoChoices.XML__ allows Cisco AnyConnect 4.4 package to be installed using the vendor provided pacakge but customize which modules to install.  
+__anyConnectConfig.sh__ will install and customize the login by retrieving and replacing logged in user's username and vpn domain name to organization specific settings.  
 __anyconnect__ file is a configuration file pre-configure to organization specific information.  
 
 
