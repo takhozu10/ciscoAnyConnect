@@ -5,6 +5,11 @@ __CiscoChoices.XML__ allows Cisco AnyConnect 4.4 package to be installed using t
 __anyConnectConfig.sh__ will install and customize the login by retrieving and replacing logged in user's username and vpn domain name to organization specific settings.  
 __anyconnect__ file is a configuration file pre-configure to organization specific information.  
 
+## CiscoChoices.xml file
+This file allows custom installation method to be applied to the package.  
+Currently, the this file only have VPN enabled. In order to enable the other module during the installation, change the integer tag to the following  
+```<integer>1</integer>```
+
 ## Edit anyconnect file
 Enter the vpn server name here  
 ```<DefaultHostName>vpn.company.com</DefaultHostName>```
