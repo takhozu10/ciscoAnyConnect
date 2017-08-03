@@ -11,7 +11,7 @@ Enter the vpn server name here
 
 ## Install Instructions  
 1. Copy vendor provided AnyConnect.pkg file and CiscoChoices.xml file to the computer, in the /tmp directory.
-2. Copy anyconnect file to /Users/<username>/.
+2. Copy anyconnect file to /Users/```<username>```/.
 3. Run anyConnectConfig.sh script to customize using user specific configuration.
 
 ## Install using JAMF Pro
