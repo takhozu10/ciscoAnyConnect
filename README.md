@@ -1,5 +1,6 @@
-# Cisco AnyConnect for Mac 4.8
+# Cisco AnyConnect for Mac 4.8 and 4.9
 Customize installation for enterpriase organization.  
+Tested with Cisco AnyConnect for Mac 4.9 version and Big Sur.
 
 * __CiscoChoices.XML__ Customize what Cisco Anyconnect components to be installed. By default, this XML is set to only install VPN module.
 
